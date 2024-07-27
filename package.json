@@ -1,0 +1,23 @@
+{
+  "name": "@muhammadowaisshah/currency-convertor",
+  "version": "1.0.0",
+  "description": "this is currency convertor",
+  "main": "currency.js",
+  "type":"module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin":"currency.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Muhammad Owais Shah",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
